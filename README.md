@@ -13,3 +13,5 @@ Learned **if statements**, `if-else`, and `if-elif-else` structures. Practiced d
 Introduction to **for loops** — iterating over lists, strings, ranges. 
 
 Solved **problem-solving tasks** using for loops (sum of numbers, factorial, reverse string).  
+
+Learned **while loops** for repetition until a condition is false. 
