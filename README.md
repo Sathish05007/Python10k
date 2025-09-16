@@ -18,3 +18,5 @@ Learned **while loops** for repetition until a condition is false.
 
 **Python:** Solved problems using **for** and **while loops** — printing sequences, sums, and factorials.  
 **Problem Solving :** Focused on logical thinking with small programs. 
+
+Revised loops
