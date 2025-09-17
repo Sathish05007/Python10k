@@ -36,21 +36,21 @@ for i in info:
 
 
 
-students = [
-    {"id": 1, "name": "Alice", "age": 20, "grade": "A"},
-    {"id": 2, "name": "Bob", "age": 21, "grade": "B"},
-    {"id": 3, "name": "Charlie", "age": 19, "grade": "A"},
-    {"id": 4, "name": "David", "age": 22, "grade": "C"},
-    {"id": 5, "name": "Eva", "age": 20, "grade": "B"},
-    {"id": 6, "name": "Frank", "age": 23, "grade": "A"},
-    {"id": 7, "name": "Grace", "age": 21, "grade": "B"},
-    {"id": 8, "name": "Helen", "age": 20, "grade": "C"}
-]
-for i in students:
-    # print(i)
-    print(students["name"])
+# students = [
+#     {"id": 1, "name": "Alice", "age": 20, "grade": "A"},
+#     {"id": 2, "name": "Bob", "age": 21, "grade": "B"},
+#     {"id": 3, "name": "Charlie", "age": 19, "grade": "A"},
+#     {"id": 4, "name": "David", "age": 22, "grade": "C"},
+#     {"id": 5, "name": "Eva", "age": 20, "grade": "B"},
+#     {"id": 6, "name": "Frank", "age": 23, "grade": "A"},
+#     {"id": 7, "name": "Grace", "age": 21, "grade": "B"},
+#     {"id": 8, "name": "Helen", "age": 20, "grade": "C"}
+# ]
+# for i in students:
+#     # print(i)
+#     print(students["name"])
 
-print(students[5])
+# print(students[5])
    
 
 
@@ -144,9 +144,9 @@ print(ecommerce_data[6]["customer_name"])
    
 
      
-tuple=("a","b","c","d","e","f","g","h","i")
-for i in tuple:
-    print(i)
+# tuple=("a","b","c","d","e","f","g","h","i")
+# for i in tuple:
+#     print(i)
 
 # set={"sagar","laddu","ramesh","suresh"} #we dont use for loop for sets
 # for i in set:
