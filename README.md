@@ -31,3 +31,5 @@ Practiced using methods like len(), append(), pop(), sort(), upper(), lower(), k
 
 DAY 16:-Practiced pattern printing in Python using loops.
 Created star patterns, number patterns, and pyramid structures with nested for loops.
+
+DAY 17:-FOR LOOP IN SEQUENCE  DATA (LIST,STR,DICT,SET)
