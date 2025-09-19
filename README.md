@@ -20,16 +20,17 @@ DAY 10:-**Python:** Solved problems using **for** and **while loops** — printi
 
 DAY 12:-**Problem Solving :** Focused on logical thinking with small programs. 
 
-DAY 13:-Learned about functions in Python to create reusable blocks of code.
+DAY 13:-Learned about **functions in Python** to create reusable blocks of code.
 Explored function definition, parameters, return values, and function calls with examples.
 
-DAY 14:-Practiced list comprehensions in Python for creating lists in a single line.
+DAY 14:-Practiced **list comprehensions** in Python for creating lists in a single line.
 Explored conditions, nested loops, and expressions inside list comprehensions.
 
-DAY 15:-Explored Python built-in methods for strings, lists, tuples, sets, and dictionaries.
-Practiced using methods like len(), append(), pop(), sort(), upper(), lower(), keys(), values() and more.
+DAY 15:-Explored Python **built-in methods for strings, lists, tuples, sets, and dictionaries**.racticed using methods like len(), append(), pop(), sort(), upper(), lower(), keys(), values() and more.
 
-DAY 16:-Practiced pattern printing in Python using loops.
+DAY 16:-Practiced **pattern printing** in Python using loops.
 Created star patterns, number patterns, and pyramid structures with nested for loops.
 
-DAY 17:-FOR LOOP IN SEQUENCE  DATA (LIST,STR,DICT,SET)
+DAY 17:-FOR **LOOP IN SEQUENCE  DATA** (LIST,STR,DICT,SET)
+
+DAY 18:-**OOPS IN PYTHON**,Its four main pillars are Encapsulation, Abstraction, Inheritance, and Polymorphism.
