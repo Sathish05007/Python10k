@@ -36,3 +36,5 @@ DAY 17:-FOR **LOOP IN SEQUENCE  DATA** (LIST,STR,DICT,SET)
 DAY 18:-**OOPS IN PYTHON**,Its four main pillars are Encapsulation, Abstraction, Inheritance, and Polymorphism.
 
 DAY 19:-**CLASS & OBJECT** in python
+
+DAY 20:-Intro to **Inheritance & types(single,multiple)**
