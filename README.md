@@ -43,6 +43,6 @@ DAY 21:-**recap upto functions & pattern's  and soled some problem solving quest
 
 DAY 22:-**Multi-level**
 
-DAY 23:-****
+DAY 23:-**inharitence**
 
 DAY 24:-**Abstraction**
