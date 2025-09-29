@@ -26,7 +26,7 @@ Explored function definition, parameters, return values, and function calls with
 DAY 14:-Practiced **list comprehensions** in Python for creating lists in a single line.
 Explored conditions, nested loops, and expressions inside list comprehensions.
 
-DAY 15:-Explored Python **built-in methods for strings, lists, tuples, sets, and dictionaries**.racticed using methods like len(), append(), pop(), sort(), upper(), lower(), keys(), values() and more.
+DAY 15:-Explored Python **built-in methods for strings, lists, tuples, sets, and dictionaries**.racticed using methods like **len()**, **append()**, pop(), sort(), upper(), lower(), keys(), values() and more.
 
 DAY 16:-Practiced **pattern printing** in Python using loops.
 Created star patterns, number patterns, and pyramid structures with nested for loops.
