@@ -46,3 +46,5 @@ DAY 22:-**Multi-level**
 DAY 23:-**inharitence**
 
 DAY 24:-**Abstraction**
+
+DAY 25:-**DEEP COPY**,**SHELLOW COPY**,**FILTER()**,**MAP()**
