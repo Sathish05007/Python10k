@@ -47,4 +47,6 @@ DAY 23:-**inharitence**
 
 DAY 24:-**Abstraction**
 
-DAY 25:-**ERROR HANDLING** **try**,**except **
+DAY 25:-**ERROR HANDLING**, **try**,**except**
+
+DAY 27:-**pdbc connection** and **CURD OPERATIONS**
