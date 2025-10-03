@@ -39,7 +39,7 @@ DAY 19:-**CLASS & OBJECT** in python
 
 DAY 20:-Intro to **Inheritance & types(single,multiple)**
 
-DAY 21:-**recap upto functions & pattern's  and soled some problem solving questions **
+DAY 21:-**recap upto functions & pattern's  and soled some problem solving questions**
 
 DAY 22:-**Multi-level**
 
