@@ -39,7 +39,7 @@ DAY 19:-**CLASS & OBJECT** in python
 
 DAY 20:-Intro to **Inheritance & types(single,multiple)**
 
-DAY 21:-**recap upto functions & pattern's  and soled some problem solving questions **
+DAY 21:-**recap upto functions & pattern's  and soled some problem solving questions**
 
 DAY 22:-**Multi-level**
 
@@ -48,7 +48,3 @@ DAY 23:-**inharitence**
 DAY 24:-**Abstraction**
 
 DAY 25:-**DEEP COPY**,**SHELLOW COPY**,**FILTER()**,**MAP()**
-
-DAY 26:-**PDBC CONNECTIONS**,**CURD OPERATIONS**,**CONNECTION BETWEEN SQL&PYTHON**
-
-DAY 27:-**CREATE A DATABSE(INSTAGRAM_USERS) & PERFORM CURD OPERATIOS BY USING PDBC**
